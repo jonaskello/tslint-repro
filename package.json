@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tslint-repro",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.0.0",
+    "typescript": "^2.2.2"
+  },
+  "scripts": {
+    "lint": "tslint './src/**/*.ts{,x}'"
+  }
+}

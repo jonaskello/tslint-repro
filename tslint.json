@@ -1,0 +1,9 @@
+{
+  "rules": {
+    // The same problem exits for rules whitespace and semicolon
+    "no-consecutive-blank-lines": [
+      true,
+      1
+    ]
+  }
+}
